@@ -1,6 +1,6 @@
-# gostack-07-gofinances
+# GoFinances
 
-#Projeto desenvolvido para aperfeiçoar técnicas aplicadas no curso.
+# Projeto desenvolvido para aperfeiçoar técnicas aplicadas no curso.
 
 - seleção e upload de arquivos
 - hooks
